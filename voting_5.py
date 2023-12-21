@@ -136,5 +136,5 @@ if __name__ == '__main__':
         voting_data_s()
     elif status == 'Reverse_Counting':
         voting_data_r()
-    elif status == 'Direct_Voting_List':
-        voting_data_l()
+    # elif status == 'Direct_Voting_List':
+    #    voting_data_l()
